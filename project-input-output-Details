@@ -20,6 +20,4 @@ Ami -id    -  ami-0e670eb768a5fc3d4
 InstanceId - i-0fa07bb355a2f4686 
 PublicIpAddress- 13.233.60.250
 
-sample application run on ip- public-adress
-http://13.233.60.250:8080/sample/ 
 

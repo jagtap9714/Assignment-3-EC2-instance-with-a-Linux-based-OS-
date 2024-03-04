@@ -1,0 +1,25 @@
+assignment no-3
+Create a EC2 instance with a Linux based OS that is accessible over the internet via SSH.
+
+
+
+## Inputs-
+
+Region- ap-south-1
+KeyName-  Linux-VM-Key7
+InstanceType - t2.micro
+SubnetId- subnet-0dd9ed0f799f42f36
+VpcId- vpc-01a761ac8e5000d54
+Ami -id    -  ami-0e670eb768a5fc3d4  
+
+
+
+
+## Outputs  -
+
+InstanceId - i-0fa07bb355a2f4686 
+PublicIpAddress- 13.233.60.250
+
+sample application run on ip- public-adress
+http://13.233.60.250:8080/sample/ 
+
